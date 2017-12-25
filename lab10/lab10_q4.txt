@@ -1,0 +1,28 @@
+<html>
+	<table
+		<tr>
+			<th>header1</th>
+			<th>header2</th>
+			<th>header2</th>
+			<th>header4</th>
+		</tr>
+		<tr>
+			<th>r1c1</th>
+			<th>r1c2</th>
+			<th>r1c3</th>
+			<th>r1c4</th>
+		</tr>
+		<tr>
+			<th>r2c1</th>
+			<th>r2c2</th>
+			<th>r2c3</th>
+			<th>r2c4</th>
+		</tr>
+		<tr>
+			<th>r3c1</th>
+			<th>r3c2</th>
+			<th>r3c3</th>
+			<th>r3c4</th>
+		</tr>
+	<table
+</html>

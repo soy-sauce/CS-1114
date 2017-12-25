@@ -1,0 +1,13 @@
+Precipitation Averages for Each Month in New York
+January: 0.3104cm
+February: 0.2992cm
+March: 0.3022cm
+April: 0.3412cm
+May: 0.4051cm
+June: 0.4296cm
+July: 0.322cm
+August: 0.4803cm
+September: 0.3593cm
+October: 0.3272cm
+November: 0.2484cm
+December: 0.3921cm
